@@ -1,0 +1,6 @@
+sql_server:
+  server: YOUR_SERVER_NAME
+  database: AutoGit
+  user: YOUR_USER
+  password: YOUR_PASSWORD
+  driver: "ODBC Driver 17 for SQL Server"  # Or your installed driver
